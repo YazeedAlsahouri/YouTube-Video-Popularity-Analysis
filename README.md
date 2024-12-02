@@ -1,6 +1,10 @@
 # YouTube-Video-Popularity-Analysis
 This project involved designing and implementing a robust data pipeline to analyze the factors influencing the popularity of YouTube videos, leveraging big data tools and techniques.
 Utilizing PySpark for ETL, PostgreSQL for data storage, and Power BI for dashboard visualization.
+
+And this is the workflow for this project
+![Alt text for the image](images/Workflow.png)
+
 Below is a detailed overview of the project:
 
 1. Data Extraction
@@ -18,7 +22,7 @@ Below is a detailed overview of the project:
 
 4. Data Storage:
       Loaded the transformed data into a PostgreSQL database for efficient storage and querying.
-      ![Alt text for the image](images/schema.png)
+      ![Alt text for the image](images/Schema.png)
 
 5. Dashboard Results:
      ![Alt text for the image](images/dash1.png)
